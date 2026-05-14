@@ -27,7 +27,8 @@ Il programma è sviluppato in Python con interfaccia Tkinter.
 
 La versione Linux portable è disponibile nella sezione **Releases** del repository.
 
-File previsto:
+Files previsti Windows / Linux:
 
 ```text
 MolinaCryptoDigitalMonitor-linux-x86_64-v0.5.tar.gz
+MolinaCryptoDigitalMonitor-windows-x86_64-v0.5.zip
