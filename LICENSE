@@ -1,21 +1,54 @@
-MIT License
+MolinaCrypto Digital Monitor License
+Version 1.0 - 2026-09-22
 
-Copyright (c) 2026 Paolo Molina
+Copyright (c) 2026 Paolo Molina.
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software is distributed as a compiled desktop application for informational,
+educational and security-awareness purposes.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Permitted use
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may download and use official MolinaCrypto Digital Monitor release packages
+for personal, informational and security-awareness purposes.
+
+2. Distribution
+
+You may share links to official MolinaCrypto project pages and official GitHub
+release pages.
+
+You may not redistribute modified, repackaged, renamed or rebranded versions of
+the software without explicit written permission from the author.
+
+3. Source code and reverse engineering
+
+The complete application source code is not distributed in official v1.x release
+assets.
+
+Reverse engineering, decompilation, extraction, modification or creation of
+derivative versions is not authorized, except where such restriction is not
+permitted by applicable law.
+
+4. MolinaCrypto server-side services
+
+Public data exposed by molinacrypto.eu remains subject to the website terms,
+technical controls and applicable third-party source terms. The desktop program
+does not grant any right to bypass, overload, scrape abusively or interfere with
+server-side services.
+
+5. No warranty
+
+The software and data are provided on an "as is" basis. They may contain errors,
+delays, incomplete data or unavailable feeds. They do not constitute financial,
+legal, tax, investment or professional cybersecurity advice.
+
+6. Historical v0.x releases
+
+Copies of historical v0.x releases remain governed by the license under which
+they were originally distributed. This v1.x license does not retroactively alter
+those grants.
+
+7. Official distribution
+
+Official releases are distributed only through channels identified by
+molinacrypto.eu and the official GitHub account of the author.
